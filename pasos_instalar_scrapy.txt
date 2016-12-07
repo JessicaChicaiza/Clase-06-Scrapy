@@ -20,11 +20,7 @@ En ubuntu
 
         pip install scrapy
 
-        
-
-
-
-
+SOLO PARA MAC
 install virtualenv
     http://virtualenvwrapper.readthedocs.io/en/latest/install.html
 
