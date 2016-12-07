@@ -1,0 +1,35 @@
+En ubuntu
+    instalar pip
+        apt-get update
+        apt-get -y install python-pip
+
+    instalar virtualenv
+        https://virtualenv.pypa.io/en/stable/installation/
+        [sudo] pip install virtualenv
+
+    Crear nuevo env
+        virtualenv ENV
+
+    Activar el ENV
+        source /home/chalo/elcomercio/bin/activate
+
+    instalar scrapy
+        https://doc.scrapy.org/en/latest/intro/install.html
+
+        sudo apt-get install python-dev python-pip libxml2-dev libxslt1-dev zlib1g-dev libffi-dev libssl-dev
+
+        pip install scrapy
+
+        
+
+
+
+
+install virtualenv
+    http://virtualenvwrapper.readthedocs.io/en/latest/install.html
+
+    Para Mac
+    sudo pip install virtualenvwrapper --upgrade --ignore-installed six
+
+
+
